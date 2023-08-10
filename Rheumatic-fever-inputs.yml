@@ -1,0 +1,84 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/fever---primary.py
+inputModule3:
+  class: File
+  path: python/acute-rheumatic-fever---primary.py
+inputModule4:
+  class: File
+  path: python/rheumatic-fever-involvement---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatic-fever-pericarditis---primary.py
+inputModule6:
+  class: File
+  path: python/rheumatic-fever-endocarditis---primary.py
+inputModule7:
+  class: File
+  path: python/rheumatic-fever-myocarditis---primary.py
+inputModule8:
+  class: File
+  path: python/other-rheumatic-fever---primary.py
+inputModule9:
+  class: File
+  path: python/rheumatic-fever-stenosis---primary.py
+inputModule10:
+  class: File
+  path: python/rheumatic-fever-chorea---primary.py
+inputModule11:
+  class: File
+  path: python/rheumatic-fever-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-rheumatic-fever---primary.py
+inputModule13:
+  class: File
+  path: python/rheumatic-fever---primary.py
+inputModule14:
+  class: File
+  path: python/mitral-rheumatic-fever---primary.py
+inputModule15:
+  class: File
+  path: python/rheumatic-fever-incompetence---primary.py
+inputModule16:
+  class: File
+  path: python/rheumatic-fever-regurgitation---primary.py
+inputModule17:
+  class: File
+  path: python/rheumatic-fever-valve---primary.py
+inputModule18:
+  class: File
+  path: python/aortic-rheumatic-fever---primary.py
+inputModule19:
+  class: File
+  path: python/rheumatic-fever-insufficiency---primary.py
+inputModule20:
+  class: File
+  path: python/rheumatic-fever-tricuspid---primary.py
+inputModule21:
+  class: File
+  path: python/pulmonary-rheumatic-fever---primary.py
+inputModule22:
+  class: File
+  path: python/rheumatic-fever-heart---primary.py
+inputModule23:
+  class: File
+  path: python/rheumatic-fever-history---primary.py
+inputModule24:
+  class: File
+  path: python/rheumatic-fever-involvement---secondary.py
+inputModule25:
+  class: File
+  path: python/rheumatic-fever---secondary.py
+inputModule26:
+  class: File
+  path: python/rheumatic-fever-valve---secondary.py
+inputModule27:
+  class: File
+  path: python/rheumatic-fever-heart---secondary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
